@@ -19,3 +19,5 @@ public class userInput {
         System.out.println("Your favorite food iz "+food);
     }
 }
+
+// test
