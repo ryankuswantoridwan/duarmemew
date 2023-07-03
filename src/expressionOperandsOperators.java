@@ -1,4 +1,4 @@
-public class expressoionOperandsOperators {
+public class expressionOperandsOperators {
     public static void main(String[] args) {
         // expression       =   operamds & operators
         // operands         =   values, variables, numbers. quantity
